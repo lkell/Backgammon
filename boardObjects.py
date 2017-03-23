@@ -1,8 +1,6 @@
 import pygame
-#import numpy
 import graphicalObjects
 import random
-#pygame.font.init()
 
 # Board dimension constants
 WIN_LENGTH = 900
